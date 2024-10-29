@@ -1,0 +1,8 @@
+# Start_time    : time of program to start moving
+# Cut off time  : Time the program will stop
+# Auto Shutdown : Automatically shutdown computer once cut off time reached
+# All timings to be in 24hr format
+
+START_TIME = 08:00
+CUT_OFF_TIME = 17:25
+AUTO_SHUTDOWN = True
