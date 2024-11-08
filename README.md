@@ -20,6 +20,6 @@ Notes:
 
 
 Original file hashes/checksums:
-- SHA256 hash of Keep_Tim_Alive.exe:  5b4250e51bc0513590f2aea580abbd8a9921a97bbbfccdaf730188d4828eeb7d
-- SHA256 hash of Keep_Tim_Alive.py:   399f28fda4572ce610f98ceef774907b9aec210cf53652fb95ad9a12eee3b5f4
-- SHA256 hash of settings.txt:        b40937c220b6cadc838de11e2b2e2b657939dae4cb4da2e6ddf6770a60befe14
+- SHA256 hash of Keep_Tim_Alive.exe:<br />5b4250e51bc0513590f2aea580abbd8a9921a97bbbfccdaf730188d4828eeb7d<br />
+- SHA256 hash of Keep_Tim_Alive.py:<br />399f28fda4572ce610f98ceef774907b9aec210cf53652fb95ad9a12eee3b5f4<br />
+- SHA256 hash of settings.txt:<br />b40937c220b6cadc838de11e2b2e2b657939dae4cb4da2e6ddf6770a60befe14<br />
